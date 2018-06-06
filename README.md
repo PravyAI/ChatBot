@@ -17,4 +17,4 @@ Open Shell and Go to bot directory and run the following command:
 python inference.py
 ```
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/PravyAI/ChatBot/blob/master/Chatbot.png)
