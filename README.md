@@ -8,12 +8,12 @@ I have used NMT - Neural Machine Translation (seq2seq) to build the bot.
 
 # Requirements
 
-tensorflow-gpu>=1.4.0
-tqdm
-colorama
-regex
-python-Levenshtein
-requests
+- tensorflow-gpu>=1.4.0
+- tqdm
+- colorama
+- regex
+- python-Levenshtein
+- requests
 
 # Setup
 Steps to setup project for your needs: It is highly recommended that you use Python 3.6+. Python 3.4 and 3.5 is likely to work in Linux, but you will eventually hit encoding errors with 3.5 or lower in a Windows environment.
